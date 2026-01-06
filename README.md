@@ -13,9 +13,9 @@ Barınaklardaki kağıt işlerini azaltmak, hayvanların tıbbi geçmişini kay�
 ## 🛠️ Kullanılan Teknolojiler
 
 * **Programlama Dili:** C#
-* **Arayüz:** Windows Forms Application (WinForms) / WPF *(Hangisini kullandıysan onu bırak)*
+* **Arayüz:** Windows Forms Application 
 * **Veritabanı:** MS SQL Server
-* **ORM / Veri Erişimi:**Entity Framework 
+* **ORM:** Entity Framework 
 * **Mimari:** Katmanlı Mimari
 
 
