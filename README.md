@@ -36,9 +36,5 @@ Barınaklardaki kağıt işlerini azaltmak, hayvanların tıbbi geçmişini kay�
 * Personel girişi ve yetkilendirme sistemi (Admin, Veteriner, Görevli).
 
 
-## 📷 Ekran Görüntüleri
 
-*(Buraya uygulamanın Ana Menü, Hayvan Kayıt Ekranı ve Sahiplendirme Ekranı gibi 2-3 görüntüsünü eklemen harika olur)*
-
----
-Developed by [Adın Soyadın](https://github.com/KULLANICI_ADIN)
+Developed by https://github.com/SuCelep
