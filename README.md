@@ -35,6 +35,10 @@ Barınaklardaki kağıt işlerini azaltmak, hayvanların tıbbi geçmişini kay�
 ### 👥 Personel ve Yönetim
 * Personel girişi ve yetkilendirme sistemi (Admin, Veteriner, Görevli).
 
-
+  
+## ⚙️ Kurulum ve Çalıştırma
+* Projeyi klonlayın.
+* Connection-Strings ayarlayın.
+* Migrotionları indirin.
 
 Developed by https://github.com/SuCelep
